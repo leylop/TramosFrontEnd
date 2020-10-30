@@ -1,7 +1,9 @@
 
 
 body {
-  background-image:  url("../images/background.png");
+  background-image:  url("../images/tramos2.webp");
+
+  
 }
 
 /* Bordered form */
@@ -21,7 +23,7 @@ form {
   
   /* Set a style for all buttons */
   button {
-    background-color: #4CAF50;
+    background-color: #305B96;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -75,4 +77,5 @@ form {
       width: 100%;
     }
   }
+
 
